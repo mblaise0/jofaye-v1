@@ -1,0 +1,74 @@
+
+
+<!-- Our Mission modal -->
+  <div class="modal fade" id="missionModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLongTitle">Our Mission</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <ul>
+            <li>To encourage and provide enabling support to struggling and talented youths across Africa with foundational education.</li>
+            <li>Empower African youths to be free innovative thinkers.</li>
+            <li>Educate and train the youths on the importance of self independence with standard core values and self - confidence towards realising their potentials.</li>
+            <li>Coaching/ teaching African youths to be selfless to their society.</li>
+            <li>Modeling young African minds to be creative thinkers and highly dependable in the capital market.</li>
+            <li>Sourcing for scholarships and sponsorships for the indigent intelligensias across Africa.</li>
+          </ul>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Our Program modal -->
+<div class="modal fade" id="programModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Our Program</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>
+          We bridge the gap between the underprivileged and privileged individuals by focusing on those who have the willpower and determination to learn but are constrained due to lack of adequate funding. As such, we support them by making the needed funds available through partnering with schools and other relevant organizations.
+        </p>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+ <!-- Vision modal -->
+<div class="modal fade" id="visionModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Vision</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>
+          Changing the mindset of the African youth and modeling them to becoming independent achievers and contributors to the growth of Africa.
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

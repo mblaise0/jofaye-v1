@@ -1,0 +1,68 @@
+
+<footer class="main-footer">
+    <div class="footer-top"></div>
+        <div class="footer-main">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="footer-col first">
+                            <h4 class="footer-title">About us <span class="title-under"></span></h4>
+                            <div class="footer-content">
+                                <p>
+						                       <strong>Jude Foundation for African Youth Empowerment (JOFAYE)</strong> was established in 2012 in Abuja, Nigeria and later registered at the corporate affairs commission (CAC) in 2021.
+                                </p>
+
+                                <p>
+                                  JOFAYE is a non- profit organization geared towards building, grooming and nurturing the African child in becoming independent of their future.
+                                </p>
+                            </div>
+                            <a class="btn btn-primary pull-left btn-pils btn-sm" href="about.html">learn More</a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="footer-col">
+                            <h4 class="footer-title">Quick Links <span class="title-under"></span></h4>
+                            <div class="footer-content">
+                                <ul class="list-links list-unstyled">
+                                    <li class="links">
+                                      <a href="donate.php">Make a Donation</a>
+                                    </li>
+                                    <li class="links">
+                                      <a href="causes.php">Our Causes</a>
+                                    </li>
+                                    <li class="links">
+                                      <a href="policy.php">Privacy Policy</a>
+                                    </li>
+                                    <li class="links">
+                                      <a href="terms.php">Terms & Conditions</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="footer-col">
+                            <h4 class="footer-title">Social Links <span class="title-under"></span></h4>
+                            <div class="footer-content">
+                                <ul class="social-network social-circle">
+                                    <li><a href="https://www.facebook.com/jofayeafrica" class="fbook-icon social-link" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/jofayeafrica" class="insta-icon social-link" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.twitter.com/jofayeafrica" class="twt-icon social-link" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="https://www.youtube.com/jofayeafrica" class="ytube-icon social-link" title="Youtube"><i class="fa fa-youtube"></i></a></li>
+                                    <!-- <li><a href="#" class="lkdIn-icon social-link" title="Linkedin"><i class="fa fa-linkedin"></i></a></li> -->
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container text-center">
+                JOFAYE @ copyrights <script>document.write(new Date().getFullYear());</script> -Powered by <a href="https://eview-technologies-portfolio.000webhostapp.com/index.html" target="_blank">Eviews_technologies</a>
+            </div>
+        </div>
+</footer> <!-- main-footer -->

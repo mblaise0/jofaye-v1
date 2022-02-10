@@ -1,0 +1,120 @@
+<div class="section-home about-us fadeIn animated desktop">
+  <div class="container">
+      <div class="row">
+          <div class="col-md-3 col-sm-6">
+            <div class="card about-card">
+                  <div class="col-icon-wrapper">
+                    <img src="assets/images/icons/our-mission-icon.png" alt="">
+                  </div>
+                  <h3 class="col-title">our mission</h3>
+                   <div class="cause-details"></div>
+                  <div class="col-details">
+                    <p class="card-text">To encourage and provide enabling support to struggling and talented youths across Africa with foundational educations.</p>
+                  </div>
+                  <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#missionModal"> Learn More </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+            <div class="card about-card">
+              <div class="col-icon-wrapper">
+                <img src="assets/images/icons/vision-icon.png" alt="">
+              </div>
+              <h3 class="col-title">Our Vision</h3>
+              <div class="col-details">
+                <p>Changing the mindset of the African youth and modeling them to becoming independent achievers and contributors to the growth of Africa.</p>
+              </div>
+              <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#visionModal"> Learn More </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+            <div class="card about-card"> 
+                <div class="col-icon-wrapper">
+                    <img src="assets/images/icons/make-donation-icon.png" alt="">
+                </div>
+                <h3 class="col-title">Make donations</h3>
+                <div class="col-details">
+                  <p>Your donations are channelled to the right hands who need support. We rely solely on your donations to spread love.</p>
+                </div>
+                <a href="donate.html" class="btn btn-primary"> Learn More </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+            <div class="card about-card">
+                <div class="col-icon-wrapper">
+                  <img src="assets/images/icons/programs-icon.png" alt="">
+                </div>
+                <h3 class="col-title">Our program</h3>
+                <div class="col-details prg">
+                  <p> We bridge the gap between the underprivileged and privileged youths by focusing on those who have the willpower and determination to learn but are constrained.</p>
+                </div>
+                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#programModal"> Learn More </a>
+            </div>
+          </div>
+
+      </div>
+  </div>
+</div>
+
+
+<div class="section-home about-us fadeIn animated mobile">
+  <div class="container">
+      <div class="row">
+          <div class="col-md-3 col-sm-6">
+            <div class="card about-card">
+                  <div class="col-icon-wrapper">
+                    <img src="assets/images/icons/our-mission-icon.png" alt="">
+                  </div>
+                  <h3 class="col-title">our mission</h3>
+                   <div class="cause-details"></div>
+                  <div class="col-details">
+                    <p class="card-text">To encourage and provide enabling support to struggling and talented youths across Africa</p>
+                  </div>
+                  <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#missionModal"> Learn More </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+            <div class="card about-card">
+              <div class="col-icon-wrapper">
+                <img src="assets/images/icons/vision-icon.png" alt="">
+              </div>
+              <h3 class="col-title">Our Vision</h3>
+              <div class="col-details">
+                <p>Changing the mindset of the African youth and modeling them to becoming independent achievers.</p>
+              </div>
+              <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#visionModal"> Learn More </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+            <div class="card about-card"> 
+                <div class="col-icon-wrapper">
+                    <img src="assets/images/icons/make-donation-icon.png" alt="">
+                </div>
+                <h3 class="col-title">Make donations</h3>
+                <div class="col-details">
+                  <p>Your donations are channelled to the right hands who need support</p>
+                </div>
+                <a href="donate.html" class="btn btn-primary"> Learn More </a>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+            <div class="card about-card">
+                <div class="col-icon-wrapper">
+                  <img src="assets/images/icons/programs-icon.png" alt="">
+                </div>
+                <h3 class="col-title">Our program</h3>
+                <div class="col-details prg">
+                  <p> We bridge the gap between the underprivileged and privileged youths by focusing on those who have the willpower.</p>
+                </div>
+                <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#programModal"> Learn More </a>
+            </div>
+          </div>
+
+      </div>
+  </div>
+</div> 

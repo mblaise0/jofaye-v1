@@ -1,0 +1,84 @@
+
+<!DOCTYPE php>
+<php class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <title>JOFAYE</title>
+        <link rel="shortcut icon" type="image/jpg" href="assets/images/logo/jofaye.ico"/>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/owl.carousel.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <script src="assets/js/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body> 
+    <header class="main-header">
+        <nav class="navbar navbar-static-top">
+            <div class="navbar-top">
+              <div class="container">
+                  <div class="row">
+                    <div class="col-sm-6 col-xs-12">
+                        <ul class="list-unstyled list-inline header-contact">
+                            <li> <i class="fa fa-phone"></i> <a href="tel:">+1 (215) 594-1521 </a> </li>
+                             <li> <i class="fa fa-envelope"></i> <a href="mailto:info@jofaye.com">info@jofaye.com</a> </li>
+                       </ul> <!-- /.header-contact  -->
+                    </div>
+                    <div class="col-sm-6 col-xs-12 text-right">
+                        <ul class="list-unstyled list-inline header-social">
+                            <li> <a href="https://www.facebook.com/jofayeafrica"> <i class="fa fa-facebook"></i> </a> </li>
+                            <li> <a href="https://www.instagram.com/jofayeafrica"> <i class="fa fa-instagram"></i>  </a> </li>
+                            <li> <a href="https://www.twitter.com/jofayeafrica"> <i class="fa fa-twitter"></i>  </a> </li>
+                            <li> <a href="https://www.youtube.com/jofayeafrica"> <i class="fa fa-youtube"></i>  </a> </li>
+                       </ul> <!-- /.header-social  -->
+                    </div>
+                  </div>
+                </div>
+            </div>
+            <div class="navbar-main sticky-top navbar-static-top">
+              <div class="container">
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                  <a class="navbar-brand" href="index.php"><img src="assets/images/logo/logo_85x85.png" class="img-responsive" alt=""></a>
+                  <span class="pull-right logo-attach"><a href="index.php" class="logo-link">JUDE OKEKE<br /> FOUNDATION FOR<br /> AFRICAN YOUTH EMPOWERMENT</a></span>
+                  <span class="pull-left logo-attach-sm"><a href="index.php" class="logo-link">JUDE OKEKE<br /> FOUNDATION FOR<br /> AFRICAN YOUTH EMPOWERMENT</a></span>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse pull-right">
+                  <ul class="nav navbar-nav">
+                    <li><a href="index.php" class="is-active custom-nav-link">HOME</a></li>
+                    <li class="has-child"><a href="about.php" class="custom-nav-link">ABOUT</a>
+                      <ul class="submenu">
+                         <li class="submenu-item"><a href="#" data-toggle="modal" data-target="#missionModal">Our Mission </a></li>
+                         <li class="submenu-item"><a href="#" data-toggle="modal" data-target="#visionModal">Our Vision </a></li>
+                      </ul>
+                    </li>
+                    <li><a href="contact.php" class="custom-nav-link">CONTACT</a></li>
+                    <li class="has-child"><a href="causes.php" class="custom-nav-link">CAUSES</a>
+                      <!-- <ul class="submenu">
+                         <li class="submenu-item"><a href="causes.php">Causes list </a></li>
+                         <li class="submenu-item"><a href="causes-poverty.php">Poverty Alleviation</a></li>
+                         <li class="submenu-item"><a href="causes-education.php">Education and Training </a></li>
+                         <li class="submenu-item"><a href="causes-carrier.php">Carrier Development </a></li>
+                      </ul> -->
+                    </li>
+                    <li><a href="donate.php" class="custom-nav-link">DONATE</a></li>
+                    <li><a href="faq.php" class="custom-nav-link">FAQ</a></li>
+                    <li><a href="gallery.php" class="custom-nav-link">GALLERY</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+        </nav>
+    </header>
+
+
+
+    

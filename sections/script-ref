@@ -1,0 +1,27 @@
+
+    <!--  Scripts
+    ================================================== -->
+
+    <script src="assets/js/jquery-3.1.1.min.js"></script>
+
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <script src="assets/js/owl.carousel.min.js"></script>
+
+    <script src="assets/js/main.js"></script>
+
+    <script src="assets/js/animationCounter.js"></script>
+    <script>
+      document.getElementById("myButton").onclick = function () {
+          location.href = "about.html";
+      };
+    </script>
+    <script>
+      $(window).scroll(function() {
+        if ($(this).scrollTop() > 0) {
+          $('.navbar-top').fadeOut();
+        } else {
+          $('.navbar-top').fadeIn();
+        }
+      });
+    </script>
